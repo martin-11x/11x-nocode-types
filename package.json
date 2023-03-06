@@ -1,0 +1,22 @@
+{
+  "name": "@martin-11x/types",
+  "version": "0.11.35",
+  "license": "AGPL-3.0",
+  "description": "Type definitions for automatisch",
+  "homepage": "https://github.com/automatisch/automatisch",
+  "types": "./index.d.ts",
+  "scripts": {},
+  "typeScriptVersion": "4.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-11x/11xautomatisch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/automatisch/automatisch/issues"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "gitHead": "03cec98bd12cefc7ffc78529f73b823dfea4a096"
+}
